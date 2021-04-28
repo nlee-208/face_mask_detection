@@ -8,4 +8,4 @@
 - The whole project can be replicated by forking https://github.com/gudtjrdltka/Face_Mask_Detection_Project
 
 - YOLO V3: An Incremental Improvement https://arxiv.org/abs/1804.02767
-- Utilized implementation guidlines from https://pjreddie.com/darknet/yolo/
+- Utilized implementation guidelines from https://pjreddie.com/darknet/yolo/
